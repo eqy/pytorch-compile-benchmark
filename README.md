@@ -8,4 +8,5 @@ jotting down some stats for a single compute arch source build
 |EPYC 7282     |26m44.210s   |2022/11/16  |16     |32       |
 |2x Gold 6230  |20m28.507s   |2022/11/17  |40     |80       |
 |2x E5-2698 v4 |18m14.562s   |2022/11/08  |40     |80       |
+|EPYC 7742     |17m18.373s   |2022/11/18  |64     |128      |
 |3975WX        |15m18.903s   |2022/11/09  |32     |64       |
